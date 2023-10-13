@@ -1,1 +1,1 @@
-# HR-scorecard -measuring success in talent management 
+# HR-scorecard : measuring success in talent management 
